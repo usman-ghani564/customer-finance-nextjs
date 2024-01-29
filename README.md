@@ -1,5 +1,3 @@
-## Next.js App Router Course - Starter
+## Customer Finance App - Next.js
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+This app handle customer finance. Both Frontend and Backend is built using Next.js. To visit the website click on this link: https://customer-finance-nextjs.vercel.app/
